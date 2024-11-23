@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BarVolume</string>
+    <string name="text_length">Panjang</string>
+    <string name="text_width">Lebar</string>
+    <string name="text_height">Tinggi\n</string>
+    <string name="input_length">Masukan Panjang</string>
+    <string name="input_width">Masukan Lebar</string>
+    <string name="input_height">Masukan Tinggi</string>
+    <string name="btn_calculate">calculate</string>
+    <string name="text_result">Result</string>
+</resources>
